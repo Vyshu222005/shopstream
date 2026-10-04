@@ -333,7 +333,7 @@ Make sure the following are installed:
 ### Clone the repository
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone <https://github.com/Vyshu222005/shopstream>
 cd shopstream
 ```
 
